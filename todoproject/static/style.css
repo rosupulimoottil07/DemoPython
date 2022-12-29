@@ -1,0 +1,15 @@
+.banner{
+     background-color: purple;
+     width:200%;
+     height:200px;
+     margin-bottom:100px;
+
+}
+.banner-text{
+
+     top:10%;
+     left:50%;
+     position:absolute;
+     transform:transform;
+
+}
